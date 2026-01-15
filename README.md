@@ -11,8 +11,14 @@ Manual reporting processes are time-consuming, error-prone, and difficult to sca
 - Power BI
 - GitHub
 
-## Data Description
-The project uses a public e-commerce transactional dataset including orders, transactions, payments, and entity information.
+## Dataset
+The project uses a **public e-commerce transactional dataset** that represents real-world business operations.
+
+### Dataset Characteristics:
+- Order-level data with timestamps and status
+- Item-level transaction data for revenue calculation
+- Payment records for financial validation
+- Seller information for performance analysis
 
 ## Approach
 - Imported raw data into MySQL
