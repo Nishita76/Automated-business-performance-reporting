@@ -41,6 +41,7 @@ All business logic is implemented in SQL views. As new data is added to the data
 - Building automation-ready SQL reporting layers
 - Designing business-focused dashboards
 
-## Screenshots
-(See screenshots folder)
+## Overall Dashboard
+![Dashboard Overview](dashboard.png)
+
 
